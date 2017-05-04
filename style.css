@@ -1,0 +1,80 @@
+*{
+    font-family: monospace;
+    box-sizing: border-box;
+    margin:0 auto;
+}
+.container{
+    width:80%;
+    text-align: center;
+}
+span{
+
+    margin-left: 15px;
+}
+input{
+    width:200px;
+    box-shadow:0 0 5px;
+}
+
+.poo{
+    background-color:green;
+    color:white;
+    font-size: 150%;
+    text-align: center;
+}
+
+.lower{
+    background-color:deepskyblue;
+    color:white;
+    font-size: 150%;
+    text-align: center;
+}
+
+.higher{
+    background-color:darkorange;
+    color:white;
+    font-size: 150%;
+    text-align: center;
+}
+.gameOver{
+    background: red;
+    color:white;
+    font-size: 150%;
+    text-align: center;
+}
+
+h1{
+    height:150px;
+    text-align: center;
+    padding-top:15px;
+    background: steelblue;
+    color:white;
+    font-size: 40px;
+}
+h3{
+    height:50px;
+    padding-top: 20px;
+    text-align: left;
+}
+#description{
+    height: 85px;
+    padding-top: 30px;
+}
+#isWin{
+    height:75px;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+.button{
+    text-align: center;
+    margin-top: 20px;
+    height: 60px;
+    width:80%;
+    margin-left: 10%;
+}
+.new{
+    background: white;
+    color:black;
+    font-size: 150%;
+    text-align: center;
+}
